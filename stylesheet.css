@@ -21,7 +21,7 @@ h1 {
 h1 span {
   display: block;
   text-align: center;
-  color: greenyellow;
+  color: #2f8e40;
 }
 nav {
   display: flex;
@@ -41,7 +41,7 @@ nav ul a {
   transition: all 900ms;
 }
 nav ul a:hover {
-  color: rgb(0, 145, 27);
+  color: #2f8e40;
   border: solid white 1.5px;
   transform: scale(1.9);
 }
